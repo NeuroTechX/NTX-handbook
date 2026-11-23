@@ -6,9 +6,7 @@ Volunteer Coordinator.
 
 .. admonition:: Draft
 
-   Proposed in the November 2026 onboarding review, not yet adopted. It is written to avoid what
-   went wrong in 2024, when new volunteers waited three months, were passed between three people
-   and had to chase eight times.
+   Proposed in the November 2026 onboarding review, not yet adopted.
 
 Principles
 ----------
