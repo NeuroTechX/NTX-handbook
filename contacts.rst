@@ -21,5 +21,4 @@ The board of directors is listed on `neurotechx.org/about <https://neurotechx.or
 Improving this handbook
 -----------------------
 
-Something wrong, missing or unclear? Open a pull request on the ``NTX-handbook`` repository, or
-tell the ED.
+Something wrong, missing or unclear? Tell your project lead or the ED.
