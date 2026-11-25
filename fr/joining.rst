@@ -14,7 +14,7 @@ d'utile. La liste de vérification pour la personne qui mène le processus se tr
 ---------------
 
 Écrivez à **info@neurotechx.org** (l'adresse indiquée sur `Joindre l'équipe
-<https://neurotechx.org/join-the-team>`_) ou à **volunteer@neurotechx.com**. Dites-nous :
+<https://neurotechx.org/join-the-team>`_) ou à **volunteer@neurotechx.org**. Dites-nous :
 
 - ce que vous aimeriez faire, ou quel rôle affiché vous intéresse;
 - environ combien d'heures par mois vous pouvez donner, et votre fuseau horaire;

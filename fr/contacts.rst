@@ -6,7 +6,7 @@ Pour                                   Écrire à
 =====================================  =========================================================
 Tout, en cas de doute                  Votre responsable de projet, ou la direction générale
 La direction générale                  mhough@neurotechx.com
-Bénévolat, se joindre à nous           volunteer@neurotechx.com ou info@neurotechx.org
+Bénévolat, se joindre à nous           volunteer@neurotechx.org ou info@neurotechx.org
 Un signalement au Code de conduite     admins@neurotechx.org (voir :doc:`working-together`)
 Un incident de confidentialité         La direction générale, le jour même (:doc:`privacy`)
 Un conflit d'intérêts                  La direction générale, par écrit (:doc:`agreement`)

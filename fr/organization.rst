@@ -45,7 +45,7 @@ mains, la boîte courriel suit.
 Adresse                        Utilisation
 =============================  =============================================================
 info@neurotechx.org            L'adresse publique; questions générales, Joindre l'équipe
-volunteer@neurotechx.com       Demandes de bénévoles
+volunteer@neurotechx.org       Demandes de bénévoles
 chapters@neurotechx.org        Sections locales des villes
 studentclubs@neurotechx.org    Clubs universitaires
 blog@neurotechx.org            Le blogue et le Content Lab
