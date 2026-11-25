@@ -41,7 +41,7 @@ Shared addresses belong to roles, not people. When a role changes hands, the mai
 Address                        What it is for
 =============================  ===============================================
 info@neurotechx.org            The public address; general questions, Join the Team
-volunteer@neurotechx.com       Volunteer enquiries
+volunteer@neurotechx.org       Volunteer enquiries
 chapters@neurotechx.org        City chapters
 studentclubs@neurotechx.org    University clubs
 blog@neurotechx.org            The blog and Content Lab
