@@ -4,8 +4,8 @@ NTX Handbook
 The internal manual for people who volunteer with NeuroTechX: what we are, how you join, what you
 agree to, the tools you get, how we work together, and how you leave.
 
-Chapters and student clubs have their own guide, `NTX-dockit
-<https://ntx-dockit.readthedocs.io>`_. This handbook is for people who help run NeuroTechX itself.
+Chapters and student clubs have their own guide, `the chapter and club guide
+<https://neurotechx.org/guide>`_. This handbook is for people who help run NeuroTechX itself.
 
 .. note::
 

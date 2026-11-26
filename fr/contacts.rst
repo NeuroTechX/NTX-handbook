@@ -22,5 +22,5 @@ La liste des membres du conseil d'administration figure sur
 Améliorer ce guide
 ------------------
 
-Une erreur, un oubli, un passage peu clair? Ouvrez une demande de tirage (*pull request*) sur le
-dépôt ``NTX-handbook``, ou avisez la direction générale.
+Une erreur, un oubli, un passage peu clair? Avisez la personne responsable de votre projet ou la
+direction générale.

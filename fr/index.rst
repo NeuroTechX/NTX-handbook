@@ -5,8 +5,8 @@ Le manuel interne des bénévoles de NeuroTechX : qui nous sommes, comment se jo
 quoi vous vous engagez, les outils que vous recevez, comment nous travaillons ensemble et comment
 partir.
 
-Les sections locales et les clubs étudiants ont leur propre guide, `NTX-dockit
-<https://ntx-dockit.readthedocs.io>`_. Ce manuel s'adresse aux personnes qui aident à faire
+Les sections locales et les clubs étudiants ont leur propre guide, `le guide des sections et des
+clubs <https://neurotechx.org/fr/guide>`_. Ce manuel s'adresse aux personnes qui aident à faire
 fonctionner NeuroTechX elle-même.
 
 .. note::
