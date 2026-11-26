@@ -13,7 +13,7 @@ person running it is in :doc:`onboarders`.
 --------------
 
 Write to **info@neurotechx.org** (the address on `Join the Team
-<https://neurotechx.org/join-the-team>`_) or **volunteer@neurotechx.com**. Tell us:
+<https://neurotechx.org/join-the-team>`_) or **volunteer@neurotechx.org**. Tell us:
 
 - what you would like to do, or which listed role interests you;
 - roughly how many hours a month you can give, and your time zone;
