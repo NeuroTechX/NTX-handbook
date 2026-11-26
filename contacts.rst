@@ -6,7 +6,7 @@ For                                Write to
 =================================  ==================================================
 Anything, if unsure                Your project lead, or the Executive Director
 The Executive Director             mhough@neurotechx.com
-Volunteering, joining              volunteer@neurotechx.com or info@neurotechx.org
+Volunteering, joining              volunteer@neurotechx.org or info@neurotechx.org
 A Code of Conduct report           admins@neurotechx.org (see :doc:`working-together`)
 A privacy incident                 The Executive Director, the same day (:doc:`privacy`)
 A conflict of interest             The Executive Director, in writing (:doc:`agreement`)
